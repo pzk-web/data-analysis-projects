@@ -2,3 +2,6 @@
 
 ## ROI 预算优化项目
 基于 30 天、40 个计划、约 185 万消耗的投放数据，用 SQL + Pandas 计算各渠道 CPA/CVR/ROI，定位视频流高消耗低效率问题，提出预算从视频流转向搜索渠道的建议
+
+## 电商用户行为分析项目
+基于淘宝用户行为公开数据集（抽样 10 万条浏览 / 加购 / 收藏 / 购买记录），用 MySQL 取数 + Python（Pandas、Matplotlib）完成转化漏斗、RF 用户分层与商品类目效率分析：漏斗整体浏览到购买转化率约 14.6%，按最近购买间隔 R 与购买频次 F 交叉划分五类人群，并筛出高转化类目与高曝光零成交类目。完整分析过程与图表见 [`ecommerce-user-behavior-analysis/`](ecommerce-user-behavior-analysis/)
