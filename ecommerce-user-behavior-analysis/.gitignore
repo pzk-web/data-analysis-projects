@@ -1,0 +1,16 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 原始数据不入库
+data/*.csv
+data/*.xlsx
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db

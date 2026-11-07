@@ -1,0 +1,6 @@
+pandas
+numpy
+pymysql
+matplotlib
+nbformat
+jupyter
